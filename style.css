@@ -129,3 +129,17 @@ color: bisque;
     
 
 } */
+ #project{
+    background-image: url(img0.jpg);
+    position: relative;
+    width: 100%;
+    justify-content: space-between;
+    height: 100vh;
+    color: black ;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding: 70px 10% 0;
+ }
